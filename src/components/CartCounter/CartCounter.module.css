@@ -1,0 +1,9 @@
+.counter {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    color: "white";
+    width: "1.5rem";
+    height: "1.5rem";
+    transform: "translate(25%, 25%)";
+}
